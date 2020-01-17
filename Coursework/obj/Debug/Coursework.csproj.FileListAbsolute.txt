@@ -1,0 +1,16 @@
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\BIPIN\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\BIPIN\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\BIPIN\source\repos\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\BIPIN\source\repos\Coursework\Coursework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIPIN\source\repos\Coursework\Coursework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.CopyComplete
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form2.resources
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form3.resources
+C:\Users\BIPIN\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form4.resources
